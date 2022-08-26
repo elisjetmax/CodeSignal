@@ -9,7 +9,6 @@ function solution(s1, s2) {
         s2.splice(s2.indexOf(e), 1);
       }
     });
-        
     return count;
 }
 
